@@ -50,6 +50,7 @@ function btnDesencriptar(){
 function copiar(){
     mensaje.select();
     navigator.clipboard.writeText(mensaje.value);
+    get.clipboard(mensaje.value);
     mensaje.value = "";
     alert("Texto copiado")
 }
