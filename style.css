@@ -1,6 +1,6 @@
 body{
     font-family: 'Inter';
-    background-image: url(imagenes/fondo_encriptador.png);
+    background-image: url(fondo_encriptador.png);
 }
 
 header{
@@ -124,7 +124,7 @@ header{
     border: none;
     border-radius: 32px;
     background: white;
-    background-image: url(imagenes/muñeco2.png);
+    background-image: url(muñeco2.png);
     background-repeat: no-repeat;
     background-position: 30px;
     background-size: 230px;
